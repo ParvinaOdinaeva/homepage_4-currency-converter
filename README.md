@@ -14,3 +14,5 @@
 <br>3. Normalize
 <br>4. BEM convention
 <br>5. JavaScript
+<br>6. GIT
+<br>7. Markdown
